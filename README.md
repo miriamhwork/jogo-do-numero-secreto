@@ -1,7 +1,19 @@
-Jogo do Número Secreto
-Desenvolvido durante o programa One em parceria com as empresas Oracle + ALura
-Para acessar o jogo em qualquer dispositivo, acesse o link: https://jogo-ruby-six.vercel.app/
+# 🎮 Jogo do Número Secreto
 
-Para jogar, basta digitar um número de 1 à 10 e clicar no botão chute.
-A cada tentativa, basta digitar um novo número e clicar novamente no botão chute.
-Quando acertar, você poderá clicar no botão "Novo Jogo" para jogar novamente.
+Este projeto foi desenvolvido durante o programa **Oracle Next Education (ONE)**, em parceria com a **Oracle** e **Alura**.
+
+## 🌐 [Clique aqui para acessar o jogo](https://jogo-ruby-six.vercel.app/)
+
+## 📝 Instruções para Jogar
+
+1. **Objetivo**: Tente adivinhar o número secreto entre 1 e 10.
+
+2. **Como jogar**:
+   - Digite um número de **1 a 10** no campo de entrada.
+   - Clique no botão **"Chute"** para verificar sua tentativa.
+   - Repita o processo até acertar o número secreto.
+
+3. **Novo Jogo**:
+   - Ao acertar o número, clique no botão **"Novo Jogo"** para reiniciar e tentar novamente.
+
+Divirta-se jogando!
